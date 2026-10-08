@@ -1,0 +1,4 @@
+mlops-env/
+mlflow.db
+mlartifacts/
+__pycache__/
