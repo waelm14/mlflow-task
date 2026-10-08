@@ -1,0 +1,6 @@
+mlops-env/
+mlruns/
+mlruns.db
+.git
+mlartifacts/
+screenshots/
