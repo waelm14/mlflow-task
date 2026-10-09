@@ -48,6 +48,7 @@ In the MLflow UI, open the Run 2 model (`xgboost-model`), click **Register model
 
 ![MLflow Runs List](screenshots/runs.png)
 ![MLflow Run Comparison](screenshots/comparison.png)
+![MLflow Experiment Results](screenshots/experiment.png)
 
 ## 6. Model Deployment
 
